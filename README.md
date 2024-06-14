@@ -1,2 +1,1 @@
-# JavaScript
-JavaScript by Shariq Khan
+MERN Stack
